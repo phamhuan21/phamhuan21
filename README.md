@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Trong Huan</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phamhuan21" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/phamhuan21" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phamhuan21" alt="tiennhm" />  </p>
 
 - ✍ I'm a student of: [Ha Noi University of Science and Technology](HUST).
 
